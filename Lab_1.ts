@@ -1,6 +1,6 @@
 
 
-// console.log("Hello world!");
+// 1.onsole.log("Hello world!");
 
 // 2.write a program in typescript to perform  basic arethmetic opration not used function
 // let a:number = 10;
